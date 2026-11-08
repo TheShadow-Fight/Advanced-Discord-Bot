@@ -67,7 +67,7 @@ YourBot#0000 is online!
 
 ## License
 
-Copyright (c) 2026 YTLynx.
+Copyright (c) 2026 TheDeveloperOfShadows.
 
 All rights reserved.
 
