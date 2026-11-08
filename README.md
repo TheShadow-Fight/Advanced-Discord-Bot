@@ -57,8 +57,9 @@ YourBot#0000 is online!
 
 | Command  | Description        |
 | -------- | ------------------ |
-| `!ping`  | Replies with Pong! |
-| `!hello` | Sends a greeting   |
+| `!myusername`  | Replies with your Name! |
+| `!ban` | HE IS GONNA BAN YOU!   |
+| `!question` | Replies with a quaestion! |
 
 ## Technologies
 
